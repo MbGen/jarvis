@@ -1,0 +1,17 @@
+__pycache__/
+venv/
+
+*.db
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+.idea/
+*.iml
+.env
+.vscode/
+node_modules/
+coverage/
+dist/
+build/

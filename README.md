@@ -1,0 +1,1 @@
+This project is intended to create a fully functional Jarvis, in the future I want to add interaction with microcontrollers and add the ability to look at the environment and draw some conclusions
